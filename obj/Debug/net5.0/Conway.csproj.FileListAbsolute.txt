@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\Conway.exe
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\Conway.deps.json
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\Conway.runtimeconfig.json
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\Conway.runtimeconfig.dev.json
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\Conway.dll
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\ref\Conway.dll
+C:\Users\user\source\repos\Conway\Conway\bin\Debug\net5.0\Conway.pdb
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.AssemblyInfo.cs
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.dll
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\ref\Conway.dll
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.pdb
+C:\Users\user\source\repos\Conway\Conway\obj\Debug\net5.0\Conway.genruntimeconfig.cache
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\Conway.exe
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\Conway.deps.json
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\Conway.runtimeconfig.json
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\Conway.runtimeconfig.dev.json
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\Conway.dll
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\ref\Conway.dll
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\bin\Debug\net5.0\Conway.pdb
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.csprojAssemblyReference.cache
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.AssemblyInfoInputs.cache
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.AssemblyInfo.cs
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.csproj.CoreCompileInputs.cache
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.dll
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\ref\Conway.dll
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.pdb
+C:\Users\Full Stack Developer\Downloads\Conway\Conway\obj\Debug\net5.0\Conway.genruntimeconfig.cache
