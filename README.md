@@ -1,1 +1,1 @@
-# GameOfLife-AppliedOOP-
+# Game Of Life Applied OOP
